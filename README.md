@@ -230,4 +230,4 @@ ChatGPT: Best balance of clarity, detail, and structure
 Gemini: Concise and fast outputs
 Microsoft Copilot: Straightforward summaries focused on business value
 
-RESULT:
+
